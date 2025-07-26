@@ -10,7 +10,7 @@ Aplicación full-stack con frontend interactivo en tiempo real y backend simulad
 1. [Descripción general](#descripción-general)
 2. [Tecnologías utilizadas](#tecnologías-utilizadas)
 3. [Estructura del proyecto](#estructura-del-proyecto)
-4. [🚀 Ejecución local](#-ejecución-local)
+4. [Ejecución local](#-ejecución-local)
 5. [Justificación tecnológica](#justificación-tecnológica)
 6. [Notas finales](#notas-finales)
 7. [Autor](#autor)
