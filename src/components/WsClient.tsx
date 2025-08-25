@@ -19,7 +19,8 @@ export default function WsClient() {
 
   // Conexión WebSocket al backend
   useEffect(() => {
-    const socket = new WebSocket(`ws://${window.location.hostname}:3000`);
+    const wsUrl = import.meta.env.PUBLIC_WS_URL || 'ws://localhost:3000';
+const socket = new WebSocket(wsUrl);
     ws.current = socket;
 
     // Estados de conexión
